@@ -1,1 +1,1 @@
-# imageGalleryPhotographyWebpage
+# ImageGalleryPhotographyWebpage
